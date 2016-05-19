@@ -1,0 +1,27 @@
+{
+    "name": "jsmicro-is-error",
+    "version": "1.0.0",
+    "description": "Check does the given Javascript Object is an error.",
+    "main": "main.js",
+    "scripts": {
+        "test": "node test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/jsmicro/is-error.git"
+    },
+    "keywords": [
+        "is-error",
+        "iserror",
+        "error"
+    ],
+    "author": "Nanang Mahdaen El Agung <nanang@mahdaen.name> (http://mahdaen.name)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jsmicro/is-error/issues"
+    },
+    "homepage": "https://github.com/jsmicro/is-error#readme",
+    "devDependencies": {
+        "jsmicro-test": "^1.0.1"
+    }
+}
