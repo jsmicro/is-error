@@ -1,5 +1,6 @@
 {
     "name": "jsmicro-is-error",
+    "version": "1.0.1",
     "description": "Check does the given Javascript Object is an error.",
     "main": "index.js",
     "authors": [
