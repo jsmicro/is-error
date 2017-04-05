@@ -30,11 +30,11 @@ bower install --save jsmicro-is-error
 ## NodeJS Usage
 
 ```bash
-npm install --save jsmicro-is-error
+npm install --save @jsmicro/is-error
 ```
 
 ```js
-const obj = require('jsmicro-is-error');
+const obj = require('@jsmicro/is-error');
 
 // Available in the global object.
 isError(new Error()); // true
